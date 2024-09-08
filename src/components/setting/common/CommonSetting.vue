@@ -1,8 +1,11 @@
 <template>
-  <div>Home</div>
+  common
 </template>
 
 <script setup lang="ts">
+
 </script>
 
-<style scoped lang="less"></style>
+<style scoped>
+
+</style>

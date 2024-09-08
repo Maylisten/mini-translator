@@ -40,5 +40,8 @@ module.exports = {
         'no-useless-escape': 'off', // 禁止不必要的转义字符
         "semi": ["error", "always"], // 强制使用分号
         'vue/multi-word-component-names': 'off', // 要求组件名称始终为 “-” 链接的单词
-    }
+    },
+    "globals": {
+        "NodeJS": true
+    },
 };
